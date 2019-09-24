@@ -6,10 +6,10 @@ import (
 	"testing"
 )
 
-func TestFail(t *testing.T) {
-	t.Errorf("TestFail")
-	t.FailNow()
-}
+//func TestFail(t *testing.T) {
+//	t.Errorf("TestFail")
+//	t.FailNow()
+//}
 
 func TestBigToCompact(t *testing.T) {
 	tests := []struct {
