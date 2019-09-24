@@ -1,4 +1,4 @@
-package chaincfg
+package difficulty
 
 import (
 	"fmt"

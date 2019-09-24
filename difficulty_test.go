@@ -1,4 +1,4 @@
-package chaincfg
+package difficulty
 
 import (
 	"math/big"
